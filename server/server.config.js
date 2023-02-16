@@ -1,7 +1,7 @@
 /**
  * Just replace BAREUR
  */ 
-const BAREURL = 'https://yourdomain'
+const BAREURL = 'https://test.reddisk.eu.org'
 
 /**
  * Non-developers, please modify without authorization, 98% report errors!
